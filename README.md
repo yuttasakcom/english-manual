@@ -9,4 +9,4 @@
 เช่น air(อากาศ), table(โต๊ะ), ghost(ผี), love(ความรัก)
 ```
 
-![My Image](https://github.com/yuttasakcom/englist-manual/blob/master/images/nouns.png)
+![My Image](https://github.com/yuttasakcom/english-manual/blob/main/images/nouns.png)
